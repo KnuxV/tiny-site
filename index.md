@@ -11,4 +11,4 @@ Ce site tient en **trois fichiers Markdown**. GitHub Pages les transforme en pag
 2. *Settings → Pages → Deploy from a branch* : GitHub en fait un site.
 3. Chaque `git push` met le site à jour, en une minute environ.
 
-Pas de serveur, pas de HTML écrit à la main.
+Pas de serveur, pas de HTML écrit à la main. Blablablabla,
